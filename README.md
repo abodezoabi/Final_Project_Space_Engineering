@@ -90,7 +90,3 @@ This structure is ideal for integration with image transmission pipelines or fur
 
 This project was developed as part of a space engineering course project, simulating onboard filtering logic for low-bandwidth satellite missions. The system ensures that only the most valuable and clean images are prioritized for transmission to Earth.
 
-## 👨‍💻 Author
-
-**Natane Partouche**  
-Final Year Computer Science & Space Engineering Student  
